@@ -1,0 +1,36 @@
+body {
+  background-color: #4286f4;
+}
+#mainWindow{
+  margin: 8em 0em 8em 0em;
+  padding: 2em 0em 2em 0em;
+  background-color: white;
+  border-radius: 2em;
+  min-width:440px;
+  max-width:440px;
+  box-shadow:10px 10px;
+}
+#inputDisplay{
+  text-align: right;
+  font-family: Orbitron;
+  background-color: silver;
+  height: 2em;
+  padding: 0.5em 1em 2em 1em;
+  font-size:1.5em;
+}
+#title{
+  text-align: center;
+  font-family: Orbitron;
+  font-size: 2em;
+}
+.btn{
+  margin-right: 0.97em;
+  margin-bottom: 0.97em;
+  width: 3em;
+  height: 3em;
+  font-family: Orbitron;
+  font-size: 1.3em;
+}
+#zero{
+  width: 7.2em;
+}
